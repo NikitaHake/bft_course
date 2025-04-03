@@ -1,6 +1,7 @@
 # bft_course
 Дахненко Н.В.  -  КГТУ  -  22-ВТ
 
+src - test_dakhnenko.py
 pip install selenium pytest allure-pytest
 
 Run - Edit configuration - Additional Argument - # --alluredir=allure-results
