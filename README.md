@@ -2,7 +2,9 @@
 Дахненко Н.В.  -  КГТУ  -  22-ВТ
 
 pip install selenium pytest allure-pytest
+
 Run - Edit configuration - Additional Argument - # --alluredir=allure-results
+
 allure serve allure-results
 
 ![image](https://github.com/user-attachments/assets/5491c085-0f42-4b91-8e61-ab0e063f5acd)
