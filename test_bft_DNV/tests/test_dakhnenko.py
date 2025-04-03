@@ -127,5 +127,3 @@ def test_dakhnenko(wd):
         wd.get("https://media1.tenor.com/m/W0YAWB2MQ_sAAAAC/testing-testing-can-continue.gif")
         time.sleep(3)
         allure.attach(wd.get_screenshot_as_png(), name="Gifka :)", attachment_type=AttachmentType.PNG)
-
-# allure serve allure-results
