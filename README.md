@@ -3,11 +3,13 @@
 
 src - test_bft_dakhnenko
 
-pip install selenium pytest allure-pytest
+confest.py - можно не смотреть не доделал фикстуры
+
+# pip install selenium pytest allure-pytest
 
 Run - Edit configuration - Additional Argument - # --alluredir=allure-results
 
-allure serve allure-results
+# allure serve allure-results
 
 Потыкал allure, у меня работает, пытался скинуть на комп, танцы с бубнами чтобы запустить, не до конца разобрался с инициализацией
 
